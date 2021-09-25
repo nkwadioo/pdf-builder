@@ -6,6 +6,7 @@ Create reusable PDFs for online users
 - you should be able to import a document and we will create that editable document to give you the ability to edit the images ect.
 
 https://www.syncfusion.com/javascript-ui-controls/js-word-processor #Seamless editing
+
 Seamless editing
 The Word Processor provides seamless editing experience and offers intuitive and touch-friendly UI options like context menus, dialogs, and a navigation pane.
 
